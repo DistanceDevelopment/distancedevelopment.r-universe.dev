@@ -1,5 +1,33 @@
 [
   {
+    "package": "mrds",
+    "url": "https://github.com/distanceDevelopment/mrds/"
+  },
+  {
+    "package": "Distance",
+    "url": "https://github.com/distanceDevelopment/Distance/"
+  },
+  {
+    "package": "dsm",
+    "url": "https://github.com/distanceDevelopment/dsm/"
+  },
+  {
+    "package": "DSsim",
+    "url": "https://github.com/distanceDevelopment/DSsim/"
+  },
+  {
+    "package": "dssd",
+    "url": "https://github.com/distanceDevelopment/dssd/"
+  },
+  {
+    "package": "dsims",
+    "url": "https://github.com/distanceDevelopment/dsims/"
+  },
+  {
+    "package": "mads",
+    "url": "https://github.com/distanceDevelopment/mads/"
+  },
+  {
     "package": "readdst",
     "url": "https://github.com/distanceDevelopment/readdst/"
   }
