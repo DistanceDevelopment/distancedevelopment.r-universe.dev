@@ -13,7 +13,8 @@
   },
   {
     "package": "DSsim",
-    "url": "https://github.com/distanceDevelopment/DSsim/"
+    "url": "https://github.com/distanceDevelopment/DSsim/",
+    "subdir": "DSsim"
   },
   {
     "package": "dssd",
@@ -25,7 +26,8 @@
   },
   {
     "package": "mads",
-    "url": "https://github.com/distanceDevelopment/mads/"
+    "url": "https://github.com/distanceDevelopment/mads/",
+    "subdir" : "mads"
   },
   {
     "package": "readdst",
